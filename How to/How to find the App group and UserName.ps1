@@ -1,4 +1,4 @@
-$upn = "v-junahmed@microsoftsupport.com"
+$upn = "upn@domain.com"
 $tenants = (Get-RdsTenant).TenantName
 foreach($tenant in $tenants)
 {
